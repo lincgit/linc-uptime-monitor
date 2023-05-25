@@ -6,7 +6,10 @@ sites:
     url: https://linc.nl/
 
 status-website:
-  robotsText: "User-agent: * \n Disallow: /"
+theme: night
+  metaTags:
+    - name: "robots"
+      content: "noindex, nofollow"
   name: LiNC Uptime Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   cname: status.linc.nl
