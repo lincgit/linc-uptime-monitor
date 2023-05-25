@@ -2,8 +2,10 @@ owner: lincgit
 repo: uptime-monitor
 
 sites:
-  - name: linc.nl
-    url: https://linc.nl/
+  - name: Google
+    url: https://www.google.com
+  - name: DuckDuckGo
+    url: https://duckduckgo.com
 
 status-website:
   baseUrl: /uptime-monitor
