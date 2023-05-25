@@ -13,6 +13,6 @@ status-website:
   faviconSvg: https://status.linc.nl/favicon.svg
   cname: status.linc.nl
   introTitle: "**LiNC Uptime Monitor**"
-  
-  i18n:
-    footer: LiNC
+ 
+i18n:
+    footer: 
