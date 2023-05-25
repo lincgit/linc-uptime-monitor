@@ -6,7 +6,8 @@ sites:
     url: https://linc.nl/
 
 status-website:
-  baseUrl: /uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  robotsText: "User-agent: * \n Disallow: /"
   name: LiNC Uptime Monitor
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.linc.nl
   introTitle: "**LiNC Uptime Monitor**"
