@@ -9,7 +9,8 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   theme: night
   name: LiNC Uptime Monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://status.linc.nl/logo.svg
+  faviconSvg: https://status.linc.nl/favicon.svg
   cname: status.linc.nl
   introTitle: "**LiNC Uptime Monitor**"
   
