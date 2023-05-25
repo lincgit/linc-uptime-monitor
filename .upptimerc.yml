@@ -7,6 +7,7 @@ sites:
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
+  name: Uptime Monitor
   theme: night
   logoUrl: https://raw.githubusercontent.com/lincgit/uptime-monitor/master/assets/logo.svg
   faviconSvg: https://raw.githubusercontent.com/lincgit/uptime-monitor/master/assets/favicon.svg
