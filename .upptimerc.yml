@@ -14,4 +14,4 @@ status-website:
   introTitle: "**LiNC Uptime Monitor**"
   
   i18n:
-    footer: 
+    footer: LiNC
