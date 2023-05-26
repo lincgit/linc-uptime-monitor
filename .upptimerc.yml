@@ -1,10 +1,140 @@
 owner: lincgit
 repo: uptime-monitor
-
 sites:
+   - name: adhulst.nl
+     url: https://adhulst.nl
+   - name: alltape.eu
+     url: https://alltape.eu
+   - name: bedding-concepts.nl
+     url: https://bedding-concepts.nl
+   - name: bioammo.nl
+     url: https://bioammo.nl
+   - name: bisley.nl
+     url: https://bisley.nl
+   - name: boardingfestival.com
+     url: https://boardingfestival.com
+   - name: cafeaula.nl
+     url: https://cafeaula.nl
+   - name: charterama.com
+     url: https://charterama.com
+   - name: con-questa.com
+     url: https://con-questa.com
+   - name: creativefamily.nl
+     url: https://creativefamily.nl
+   - name: dementiespecialist.nl
+     url: https://dementiespecialist.nl
+   - name: deprovinciekiest.nl
+     url: https://deprovinciekiest.nl
+   - name: deschakelgoes.nl
+     url: https://deschakelgoes.nl
+   - name: easypiezie.nl
+     url: https://easypiezie.nl
+   - name: enlarg3d.nl
+     url: https://enlarg3d.nl
+   - name: etagon.nl
+     url: https://etagon.nl
+   - name: fuchs-wse.nl
+     url: https://fuchs-wse.nl
+   - name: glatzonline.nl
+     url: https://glatzonline.nl
+   - name: gocompany.nl
+     url: https://gocompany.nl
+   - name: greeniuz.nl
+     url: https://greeniuz.nl
+   - name: hgm.eu
+     url: https://hgm.eu
+   - name: hollandpackaging.nl
+     url: https://hollandpackaging.nl
+   - name: hydratechbenelux.nl
+     url: https://hydratechbenelux.nl
+   - name: infocvb.nl
+     url: https://infocvb.nl
+   - name: inglasco-int.com
+     url: https://inglasco-int.com
+   - name: inglasco.nl
+     url: https://inglasco.nl
+   - name: innoseal.shop
+     url: https://innoseal.shop
+   - name: intranet.wspmiddenbrabant.nl
+     url: https://intranet.wspmiddenbrabant.nl
+   - name: jcmeijers.com
+     url: https://jcmeijers.com
+   - name: koopjeleaseaf.nl
+     url: https://koopjeleaseaf.nl
+   - name: kootstrarijopleidingen.nl
+     url: https://kootstrarijopleidingen.nl
+   - name: kristelsfashion.nl
+     url: https://kristelsfashion.nl
+   - name: lanhandling.com
+     url: https://lanhandling.com
+   - name: lekker-brabant.nl
+     url: https://lekker-brabant.nl
    - name: linc.nl
-     url: https://linc.nl/
-
+     url: https://linc.nl
+   - name: magna-capital-partners.nl
+     url: https://magna-capital-partners.nl
+   - name: marcom-inhouse.nl
+     url: https://marcom-inhouse.nl
+   - name: marquardt-kuchen.nl
+     url: https://marquardt-kuchen.nl
+   - name: mensgerichteouderenzorg.nl
+     url: https://mensgerichteouderenzorg.nl
+   - name: mondzorgbaliendijk.nl
+     url: https://mondzorgbaliendijk.nl
+   - name: nervecentre.nl
+     url: https://nervecentre.nl
+   - name: newbridges.nl
+     url: https://newbridges.nl
+   - name: nextadvocaten.nl
+     url: https://nextadvocaten.nl
+   - name: nvp-unima.nl
+     url: https://nvp-unima.nl
+   - name: outings.nl
+     url: https://outings.nk
+   - name: panasonic-forms.nl
+     url: https://panasonic-forms.nl
+   - name: persafe.eu
+     url: https://persafe.eu
+   - name: pigmansconnectordevelopment.com
+     url: https://pigmansconnectordevelopment.com
+   - name: robo-automotive.nl
+     url: https://robo-automotive.nl
+   - name: studio-tegenlicht.nl
+     url: https://studio-tegenlicht.nl
+   - name: swinhovegroep.nl
+     url: https://swinhovegroep.nl
+   - name: thepostoffice013.lnl
+     url: https://thepostoffice013.lnl
+   - name: vdsprojects.nl
+     url: https://vdsprojects.nl
+   - name: vekon.nl
+     url: https://vekon.nl
+   - name: vhex.nl
+     url: https://vhex.nl
+   - name: vivar.nl
+     url: https://vivar.nl
+   - name: vivarforwarding.nl
+     url: https://vivarforwarding.nl
+   - name: vn-plu.com
+     url: https://vn-plu.com
+   - name: werkenbij.vlc-partners.nl
+     url: https://werkenbij.vlc-partners.nl
+   - name: werkenbijswinhove.nl
+     url: https://werkenbijswinhove.nl
+   - name: win-rs.nl
+     url: https://win-rs.nl
+   - name: wolterwolthers.com
+     url: https://wolterwolthers.com
+   - name: wonenbijdefamilie.nl
+     url: https://wonenbijdefamilie.nl
+   - name: wsphelmond-depeel.nl
+     url: https://wsphelmond-depeel.nl
+   - name: wspmiddenbrabant.nl
+     url: https://wspmiddenbrabant.nl
+   - name: yourvolvo.nl
+     url: https://yourvolvo.nl
+assignees:
+   - devlinc
 status-website:
    name: Uptime Monitor
    cname: status.linc.nl
@@ -12,6 +142,5 @@ status-website:
    logoUrl: https://raw.githubusercontent.com/lincgit/uptime-monitor/master/assets/logo.svg
    faviconSvg: https://raw.githubusercontent.com/lincgit/uptime-monitor/master/assets/favicon.svg
    theme: night
-
 i18n:
-   footer: &nbsp;
+   footer: LiNC
