@@ -90,7 +90,7 @@ sites:
    - name: nvp-unima.nl
      url: https://nvp-unima.nl
    - name: outings.nl
-     url: https://outings.nk
+     url: https://outings.nl
    - name: panasonic-forms.nl
      url: https://panasonic-forms.nl
    - name: persafe.eu
@@ -103,8 +103,8 @@ sites:
      url: https://studio-tegenlicht.nl
    - name: swinhovegroep.nl
      url: https://swinhovegroep.nl
-   - name: thepostoffice013.lnl
-     url: https://thepostoffice013.lnl
+   - name: thepostoffice013.nl
+     url: https://thepostoffice013.nl
    - name: vdsprojects.nl
      url: https://vdsprojects.nl
    - name: vekon.nl
@@ -123,8 +123,8 @@ sites:
      url: https://werkenbijswinhove.nl
    - name: win-rs.nl
      url: https://win-rs.nl
-   - name: wolterwolthers.com
-     url: https://wolterwolthers.com
+   - name: wolterwolthers.nl
+     url: https://wolterwolthers.nl
    - name: wonenbijdefamilie.nl
      url: https://wonenbijdefamilie.nl
    - name: wsphelmond-depeel.nl
