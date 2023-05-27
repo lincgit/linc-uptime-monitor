@@ -133,8 +133,6 @@ sites:
      url: https://wspmiddenbrabant.nl
    - name: yourvolvo.nl
      url: https://yourvolvo.nl
-assignees:
-   - devlinc
 status-website:
    name: Uptime Monitor
    cname: status.linc.nl
