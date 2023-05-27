@@ -1,5 +1,5 @@
 owner: lincgit
-repo: uptime-monitor
+repo: linc-uptime-monitor
 sites:
    - name: adhulst.nl
      url: https://adhulst.nl
