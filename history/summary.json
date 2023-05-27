@@ -310,18 +310,20 @@
     "url": "https://glatzonline.nl",
     "icon": "https://icons.duckduckgo.com/ip3/glatzonline.nl.ico",
     "slug": "glatzonline-nl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 940,
     "timeDay": 940,
     "timeWeek": 940,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-27": 3
+    }
   },
   {
     "name": "gocompany.nl",
