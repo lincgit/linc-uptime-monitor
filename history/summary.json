@@ -310,19 +310,19 @@
     "url": "https://glatzonline.nl",
     "icon": "https://icons.duckduckgo.com/ip3/glatzonline.nl.ico",
     "slug": "glatzonline-nl",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 940,
-    "timeDay": 940,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "status": "up",
+    "uptime": "97.97%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
+    "time": 998,
+    "timeDay": 998,
+    "timeWeek": 998,
+    "timeMonth": 998,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-05-27": 3
+      "2023-05-27": 17
     }
   },
   {
