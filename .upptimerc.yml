@@ -35,6 +35,8 @@ sites:
      url: https://etagon.nl
    - name: fuchs-wse.nl
      url: https://fuchs-wse.nl
+   - name: getaheadineurope.com
+     url: https://getaheadineurope.com
    - name: glatzonline.nl
      url: https://glatzonline.nl
    - name: gocompany.nl
