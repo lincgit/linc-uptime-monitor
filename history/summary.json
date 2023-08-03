@@ -418,36 +418,40 @@
     "url": "https://hgm.eu",
     "icon": "https://icons.duckduckgo.com/ip3/hgm.eu.ico",
     "slug": "hgm-eu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.88%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.88%",
     "time": 2540,
     "timeDay": 2540,
     "timeWeek": 2540,
     "timeMonth": 2540,
     "timeYear": 2540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 8
+    }
   },
   {
     "name": "hollandpackaging.nl",
     "url": "https://hollandpackaging.nl",
     "icon": "https://icons.duckduckgo.com/ip3/hollandpackaging.nl.ico",
     "slug": "hollandpackaging-nl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.08%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 829,
     "timeDay": 829,
     "timeWeek": 829,
     "timeMonth": 829,
     "timeYear": 829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 8
+    }
   },
   {
     "name": "hydratechbenelux.nl",
@@ -526,18 +530,20 @@
     "url": "https://innoseal.shop",
     "icon": "https://icons.duckduckgo.com/ip3/innoseal.shop.ico",
     "slug": "innoseal-shop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.33%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
     "time": 1359,
     "timeDay": 1359,
     "timeWeek": 1359,
     "timeMonth": 1359,
     "timeYear": 1359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 7
+    }
   },
   {
     "name": "intranet.wspmiddenbrabant.nl",
@@ -562,18 +568,20 @@
     "url": "https://jcmeijers.com",
     "icon": "https://icons.duckduckgo.com/ip3/jcmeijers.com.ico",
     "slug": "jcmeijers-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.50%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "97.50%",
     "time": 976,
     "timeDay": 976,
     "timeWeek": 976,
     "timeMonth": 976,
     "timeYear": 976,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 7
+    }
   },
   {
     "name": "kootstrarijopleidingen.nl",
@@ -1048,36 +1056,40 @@
     "url": "https://swinhovegroep.nl",
     "icon": "https://icons.duckduckgo.com/ip3/swinhovegroep.nl.ico",
     "slug": "swinhovegroep-nl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 1057,
     "timeDay": 1057,
     "timeWeek": 1057,
     "timeMonth": 1057,
     "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 4
+    }
   },
   {
     "name": "thepostoffice013.nl",
     "url": "https://thepostoffice013.nl",
     "icon": "https://icons.duckduckgo.com/ip3/thepostoffice013.nl.ico",
     "slug": "thepostoffice013-nl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "30.53%",
+    "uptimeDay": "30.53%",
+    "uptimeWeek": "30.53%",
+    "uptimeMonth": "30.53%",
+    "uptimeYear": "30.53%",
     "time": 1281,
     "timeDay": 1281,
     "timeWeek": 1281,
     "timeMonth": 1281,
     "timeYear": 1281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 189
+    }
   },
   {
     "name": "vdsprojects.nl",
@@ -1085,17 +1097,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vdsprojects.nl.ico",
     "slug": "vdsprojects-nl",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "30.53%",
+    "uptimeDay": "30.53%",
+    "uptimeWeek": "30.53%",
+    "uptimeMonth": "30.53%",
+    "uptimeYear": "30.53%",
     "time": 953,
     "timeDay": 953,
     "timeWeek": 953,
     "timeMonth": 953,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 189
+    }
   },
   {
     "name": "vekon.nl",
@@ -1174,36 +1188,40 @@
     "url": "https://vn-plu.com",
     "icon": "https://icons.duckduckgo.com/ip3/vn-plu.com.ico",
     "slug": "vn-plu-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 1176,
     "timeDay": 1176,
     "timeWeek": 1176,
     "timeMonth": 1176,
     "timeYear": 1176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 3
+    }
   },
   {
     "name": "wbsoaanvraag.com",
     "url": "https://wbsoaanvraag.com",
     "icon": "https://icons.duckduckgo.com/ip3/wbsoaanvraag.com.ico",
     "slug": "wbsoaanvraag-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
     "time": 2381,
     "timeDay": 2381,
     "timeWeek": 2381,
     "timeMonth": 2381,
     "timeYear": 2381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 3
+    }
   },
   {
     "name": "werkenbij.vlc-partners.nl",
