@@ -153,8 +153,8 @@ status-website:
    name: Uptime Monitor
    cname: status.linc.nl
    robotsText: "User-agent: * \n Disallow: /"
-   logoUrl: https://raw.githubusercontent.com/lincgit/uptime-monitor/master/assets/logo.svg
-   faviconSvg: https://raw.githubusercontent.com/lincgit/uptime-monitor/master/assets/favicon.svg
+   logoUrl: https://raw.githubusercontent.com/lincgit/linc-uptime-monitor/master/assets/logo.svg
+   faviconSvg: https://raw.githubusercontent.com/lincgit/linc-uptime-monitor/master/assets/favicon.svg
    theme: night
 i18n:
    footer: LiNC
