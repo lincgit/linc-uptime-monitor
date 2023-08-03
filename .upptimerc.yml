@@ -21,18 +21,22 @@ sites:
      url: https://con-questa.com
    - name: creativefamily.nl
      url: https://creativefamily.nl
-   - name: dementiespecialist.nl
-     url: https://dementiespecialist.nl
+   - name: dehorstgoes.nl
+     url: https://dehorstgoes.nl
    - name: deprovinciekiest.nl
      url: https://deprovinciekiest.nl
    - name: deschakelgoes.nl
      url: https://deschakelgoes.nl
+   - name: detail4retail.nl
+     url: https://detail4retail.nl
    - name: easypiezie.nl
      url: https://easypiezie.nl
    - name: enlarg3d.nl
      url: https://enlarg3d.nl
    - name: etagon.nl
      url: https://etagon.nl
+   - name: faes-packaging-solutions.com
+     url: https://faes-packaging-solutions.com
    - name: fuchs-wse.nl
      url: https://fuchs-wse.nl
    - name: getaheadineurope.com
@@ -61,16 +65,18 @@ sites:
      url: https://intranet.wspmiddenbrabant.nl
    - name: jcmeijers.com
      url: https://jcmeijers.com
-   - name: koopjeleaseaf.nl
-     url: https://koopjeleaseaf.nl
    - name: kootstrarijopleidingen.nl
      url: https://kootstrarijopleidingen.nl
    - name: kristelsfashion.nl
      url: https://kristelsfashion.nl
+   - name: lan-intranet.nl
+     url: https://lan-intranet.nl
    - name: lanhandling.com
      url: https://lanhandling.com
    - name: lekker-brabant.nl
      url: https://lekker-brabant.nl
+   - name: libretica.nl
+     url: https://libretica.nl
    - name: linc.nl
      url: https://linc.nl
    - name: magna-capital-partners.com
@@ -79,10 +85,14 @@ sites:
      url: https://marcom-inhouse.nl
    - name: marquardt-kuchen.nl
      url: https://marquardt-kuchen.nl
+   - name: mcabrabant.nl
+     url: https://mcabrabant.nl
    - name: mensgerichteouderenzorg.nl
      url: https://mensgerichteouderenzorg.nl
    - name: mondzorgbaliendijk.nl
      url: https://mondzorgbaliendijk.nl
+   - name: move.scheepens.nl
+     url: https://move.scheepens.nl
    - name: nervecentre.nl
      url: https://nervecentre.nl
    - name: newbridges.nl
@@ -91,24 +101,24 @@ sites:
      url: https://nextadvocaten.nl
    - name: nvp-unima.nl
      url: https://nvp-unima.nl
+   - name: olympushillegersberg.nl
+     url: https://olympushillegersberg.nl
    - name: outings.nl
      url: https://outings.nl
    - name: panasonic-forms.nl
      url: https://panasonic-forms.nl
-   - name: persafe.eu
-     url: https://persafe.eu
    - name: pigmansconnectordevelopment.com
      url: https://pigmansconnectordevelopment.com
    - name: robo-automotive.nl
      url: https://robo-automotive.nl
-   - name: move.scheepens.nl
-     url: https://move.scheepens.nl
+   - name: skb-europe.com
+     url: https://skb-europe.com
+   - name: specialolympics2024.nl
+     url: https://specialolympics2024.nl
    - name: studio-tegenlicht.nl
      url: https://studio-tegenlicht.nl
    - name: swinhovegroep.nl
      url: https://swinhovegroep.nl
-   - name: skb-europe.com
-     url: https://skb-europe.com
    - name: thepostoffice013.nl
      url: https://thepostoffice013.nl
    - name: vdsprojects.nl
@@ -123,6 +133,8 @@ sites:
      url: https://vivarforwarding.nl
    - name: vn-plu.com
      url: https://vn-plu.com
+   - name: wbsoaanvraag.com
+     url: https://wbsoaanvraag.com
    - name: werkenbij.vlc-partners.nl
      url: https://werkenbij.vlc-partners.nl
    - name: werkenbijswinhove.nl
@@ -135,8 +147,6 @@ sites:
      url: https://wonenbijdefamilie.nl
    - name: wsphelmond-depeel.nl
      url: https://wsphelmond-depeel.nl
-   - name: wspmiddenbrabant.nl
-     url: https://wspmiddenbrabant.nl
    - name: yourvolvo.nl
      url: https://yourvolvo.nl
 status-website:
