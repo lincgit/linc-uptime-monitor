@@ -139,8 +139,6 @@ sites:
      url: https://wspmiddenbrabant.nl
    - name: yourvolvo.nl
      url: https://yourvolvo.nl
-   - name: test
-     url: https://httpstat.us/404
 status-website:
    name: Uptime Monitor
    cname: status.linc.nl
