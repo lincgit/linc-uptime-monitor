@@ -127,6 +127,8 @@ sites:
      url: https://vekon.nl
    - name: vhex.nl
      url: https://vhex.nl
+   - name: viking-boxes.com
+     url: https://viking-boxes.com
    - name: vivar.nl
      url: https://vivar.nl
    - name: vivarforwarding.nl
