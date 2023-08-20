@@ -1077,10 +1077,10 @@
     "url": "https://swinhovegroep.nl",
     "icon": "https://icons.duckduckgo.com/ip3/swinhovegroep.nl.ico",
     "slug": "swinhovegroep-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "85.96%",
-    "uptimeWeek": "97.99%",
+    "uptimeDay": "85.86%",
+    "uptimeWeek": "97.98%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.07%",
     "time": 2641,
@@ -1089,7 +1089,7 @@
     "timeMonth": 2641,
     "timeYear": 2641,
     "dailyMinutesDown": {
-      "2023-08-20": 39,
+      "2023-08-20": 40,
       "2023-08-19": 163,
       "2023-08-03": 24
     }
