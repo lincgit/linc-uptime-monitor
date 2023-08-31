@@ -123,6 +123,8 @@ sites:
      url: https://swinhovegroep.nl
    - name: thepostoffice013.nl
      url: https://thepostoffice013.nl
+   - name: vandaagvoorlater.nl
+     url: https://vandaagvoorlater.nl
    - name: vdsprojects.nl
      url: https://vdsprojects.nl
    - name: vekon.nl
