@@ -139,19 +139,19 @@
     "url": "https://charterama.com",
     "icon": "https://icons.duckduckgo.com/ip3/charterama.com.ico",
     "slug": "charterama-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 731,
-    "timeWeek": 1049,
-    "timeMonth": 1049,
-    "timeYear": 1062,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1099,
+    "timeDay": 1325,
+    "timeWeek": 1195,
+    "timeMonth": 1091,
+    "timeYear": 1099,
     "dailyMinutesDown": {
-      "2023-09-06": 1
+      "2023-09-06": 9
     }
   },
   {
