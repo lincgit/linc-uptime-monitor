@@ -85,10 +85,10 @@
     "url": "https://bisley.nl",
     "icon": "https://icons.duckduckgo.com/ip3/bisley.nl.ico",
     "slug": "bisley-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1122,
@@ -96,7 +96,9 @@
     "timeWeek": 834,
     "timeMonth": 1236,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-14": 2
+    }
   },
   {
     "name": "boardingfestival.com",
@@ -1122,11 +1124,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/swinhovegroep.nl.ico",
     "slug": "swinhovegroep-nl",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.24%",
-    "uptimeYear": "97.22%",
+    "uptimeYear": "97.23%",
     "time": 2155,
     "timeDay": 706,
     "timeWeek": 973,
@@ -1357,7 +1359,7 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.67%",
     "time": 1933,
-    "timeDay": 762,
+    "timeDay": 627,
     "timeWeek": 836,
     "timeMonth": 2126,
     "timeYear": 1933,
