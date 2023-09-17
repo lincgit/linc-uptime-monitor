@@ -1088,10 +1088,10 @@
     "url": "https://specialolympics2024.nl",
     "icon": "https://icons.duckduckgo.com/ip3/specialolympics2024.nl.ico",
     "slug": "specialolympics2024-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1123,
@@ -1099,7 +1099,9 @@
     "timeWeek": 1133,
     "timeMonth": 1148,
     "timeYear": 1123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 1
+    }
   },
   {
     "name": "studio-tegenlicht.nl",
