@@ -1130,11 +1130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/swinhovegroep.nl.ico",
     "slug": "swinhovegroep-nl",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "97.89%",
     "time": 1943,
     "timeDay": 1058,
     "timeWeek": 1007,
@@ -1152,10 +1152,10 @@
     "url": "https://thepostoffice013.nl",
     "icon": "https://icons.duckduckgo.com/ip3/thepostoffice013.nl.ico",
     "slug": "thepostoffice013-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1208,
@@ -1164,6 +1164,7 @@
     "timeMonth": 1120,
     "timeYear": 1208,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-08-03": 209
     }
   },
@@ -1172,10 +1173,10 @@
     "url": "https://vandaagvoorlater.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vandaagvoorlater.nl.ico",
     "slug": "vandaagvoorlater-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1074,
@@ -1183,7 +1184,9 @@
     "timeWeek": 1112,
     "timeMonth": 1074,
     "timeYear": 1074,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 1
+    }
   },
   {
     "name": "vdsprojects.nl",
