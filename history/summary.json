@@ -874,19 +874,19 @@
     "url": "https://move.scheepens.nl",
     "icon": "https://icons.duckduckgo.com/ip3/move.scheepens.nl.ico",
     "slug": "move-scheepens-nl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1130,
-    "timeDay": 983,
-    "timeWeek": 1044,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1129,
+    "timeDay": 1019,
+    "timeWeek": 1046,
     "timeMonth": 1061,
-    "timeYear": 1130,
+    "timeYear": 1129,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 8
     }
   },
   {
@@ -1180,19 +1180,19 @@
     "url": "https://vandaagvoorlater.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vandaagvoorlater.nl.ico",
     "slug": "vandaagvoorlater-nl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1060,
-    "timeDay": 947,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1059,
+    "timeDay": 974,
     "timeWeek": 999,
-    "timeMonth": 1061,
-    "timeYear": 1060,
+    "timeMonth": 1060,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 7
     }
   },
   {
