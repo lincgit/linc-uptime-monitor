@@ -88,18 +88,19 @@
     "url": "https://bisley.nl",
     "icon": "https://icons.duckduckgo.com/ip3/bisley.nl.ico",
     "slug": "bisley-nl",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 1034,
     "timeDay": 684,
     "timeWeek": 886,
     "timeMonth": 843,
     "timeYear": 1034,
     "dailyMinutesDown": {
+      "2023-10-05": 2,
       "2023-09-21": 17,
       "2023-09-14": 15
     }
@@ -128,19 +129,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafeaula.nl.ico",
     "slug": "cafeaula-nl",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 888,
     "timeDay": 800,
     "timeWeek": 797,
     "timeMonth": 849,
     "timeYear": 888,
-    "dailyMinutesDown": {
-      "2023-10-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "charterama.com",
@@ -527,10 +526,10 @@
     "url": "https://infocvb.nl",
     "icon": "https://icons.duckduckgo.com/ip3/infocvb.nl.ico",
     "slug": "infocvb-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1051,
@@ -538,7 +537,9 @@
     "timeWeek": 832,
     "timeMonth": 980,
     "timeYear": 1051,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 2
+    }
   },
   {
     "name": "inglasco-int.com",
@@ -657,10 +658,10 @@
     "url": "https://kristelsfashion.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kristelsfashion.nl.ico",
     "slug": "kristelsfashion-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 829,
@@ -669,6 +670,7 @@
     "timeMonth": 858,
     "timeYear": 829,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-09-21": 16
     }
   },
