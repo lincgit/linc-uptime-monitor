@@ -887,10 +887,10 @@
     "url": "https://move.scheepens.nl",
     "icon": "https://icons.duckduckgo.com/ip3/move.scheepens.nl.ico",
     "slug": "move-scheepens-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1121,
@@ -898,7 +898,9 @@
     "timeWeek": 1075,
     "timeMonth": 1074,
     "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-20": 2
+    }
   },
   {
     "name": "nervecentre.nl",
@@ -1176,11 +1178,11 @@
     "url": "https://thepostoffice013.nl",
     "icon": "https://icons.duckduckgo.com/ip3/thepostoffice013.nl.ico",
     "slug": "thepostoffice013-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 1199,
     "timeDay": 848,
@@ -1188,6 +1190,7 @@
     "timeMonth": 1153,
     "timeYear": 1199,
     "dailyMinutesDown": {
+      "2023-10-20": 1,
       "2023-10-04": 19,
       "2023-08-03": 209
     }
