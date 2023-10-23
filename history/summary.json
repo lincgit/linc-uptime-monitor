@@ -40,19 +40,19 @@
     "url": "https://barrelandboar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/barrelandboar.nl.ico",
     "slug": "barrelandboar-nl",
-    "status": "down",
-    "uptime": "96.78%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "81.42%",
+    "uptimeDay": "81.42%",
+    "uptimeWeek": "81.42%",
+    "uptimeMonth": "81.42%",
+    "uptimeYear": "81.42%",
+    "time": 1264,
+    "timeDay": 1264,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264,
     "dailyMinutesDown": {
-      "2023-10-23": 1
+      "2023-10-23": 9
     }
   },
   {
