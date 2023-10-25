@@ -51,8 +51,6 @@ sites:
      url: https://gocompany.nl
    - name: greeniuz.nl
      url: https://greeniuz.nl
-   - name: hgm.eu
-     url: https://hgm.eu
    - name: hollandpackaging.nl
      url: https://hollandpackaging.nl
    - name: hydratechbenelux.nl
@@ -143,8 +141,6 @@ sites:
      url: https://vivarforwarding.nl
    - name: vn-plu.com
      url: https://vn-plu.com
-   - name: wbsoaanvraag.com
-     url: https://wbsoaanvraag.com
    - name: werkenbij.vlc-partners.nl
      url: https://werkenbij.vlc-partners.nl
    - name: werkenbijswinhove.nl
