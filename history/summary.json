@@ -40,10 +40,10 @@
     "url": "https://barrelandboar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/barrelandboar.nl.ico",
     "slug": "barrelandboar-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1999,
@@ -51,7 +51,9 @@
     "timeWeek": 2673,
     "timeMonth": 1999,
     "timeYear": 1999,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 1
+    }
   },
   {
     "name": "bedding-concepts.nl",
