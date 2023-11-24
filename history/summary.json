@@ -4,10 +4,10 @@
     "url": "https://adhulst.nl",
     "icon": "https://icons.duckduckgo.com/ip3/adhulst.nl.ico",
     "slug": "adhulst-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1130,
@@ -15,7 +15,9 @@
     "timeWeek": 1635,
     "timeMonth": 1210,
     "timeYear": 1130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-24": 2
+    }
   },
   {
     "name": "alltape.eu",
