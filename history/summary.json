@@ -1135,11 +1135,11 @@
     "url": "https://pontex-ip.nl",
     "icon": "https://icons.duckduckgo.com/ip3/pontex-ip.nl.ico",
     "slug": "pontex-ip-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 1102,
     "timeDay": 1104,
@@ -1147,6 +1147,7 @@
     "timeMonth": 1064,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2023-12-05": 1,
       "2023-12-04": 27,
       "2023-09-18": 16
     }
