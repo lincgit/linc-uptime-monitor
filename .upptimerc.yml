@@ -107,8 +107,6 @@ sites:
      url: https://olympushillegersberg.nl
    - name: outings.nl
      url: https://outings.nl
-   - name: panasonic-forms.nl
-     url: https://panasonic-forms.nl
    - name: pontex-ip.nl
      url: https://pontex-ip.nl
    - name: pigmansconnectordevelopment.com
