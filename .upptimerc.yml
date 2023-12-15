@@ -109,8 +109,6 @@ sites:
      url: https://outings.nl
    - name: pontex-ip.nl
      url: https://pontex-ip.nl
-   - name: pigmansconnectordevelopment.com
-     url: https://pigmansconnectordevelopment.com
    - name: robo-automotive.nl
      url: https://robo-automotive.nl
    - name: skb-europe.com
