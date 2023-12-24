@@ -910,11 +910,11 @@
     "url": "https://mcabrabant.nl",
     "icon": "https://icons.duckduckgo.com/ip3/mcabrabant.nl.ico",
     "slug": "mcabrabant-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "64.83%",
-    "uptimeWeek": "93.31%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "64.72%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "99.66%",
     "time": 977,
     "timeDay": 1000,
@@ -922,6 +922,7 @@
     "timeMonth": 962,
     "timeYear": 977,
     "dailyMinutesDown": {
+      "2023-12-24": 2,
       "2023-12-23": 505,
       "2023-12-22": 168,
       "2023-12-04": 32
