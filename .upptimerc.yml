@@ -87,8 +87,6 @@ sites:
      url: https://marcom-inhouse.nl
    - name: marquardt-kuchen.nl
      url: https://marquardt-kuchen.nl
-   - name: mcabrabant.nl
-     url: https://mcabrabant.nl
    - name: mensgerichteouderenzorg.nl
      url: https://mensgerichteouderenzorg.nl
    - name: mondzorgbaliendijk.nl
