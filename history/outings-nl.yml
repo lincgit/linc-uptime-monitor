@@ -1,7 +1,7 @@
 url: https://outings.nl
-status: up
-code: 200
-responseTime: 1031
-lastUpdated: 2024-01-15T23:08:04.034Z
+status: down
+code: 502
+responseTime: 616
+lastUpdated: 2024-01-16T01:44:46.851Z
 startTime: 2023-08-03T07:52:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
