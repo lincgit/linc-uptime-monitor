@@ -688,19 +688,19 @@
     "url": "https://intranet.wspmiddenbrabant.nl",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.wspmiddenbrabant.nl.ico",
     "slug": "intranet-wspmiddenbrabant-nl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3409,
-    "timeDay": 3380,
-    "timeWeek": 4490,
-    "timeMonth": 3630,
-    "timeYear": 3409,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 3410,
+    "timeDay": 3453,
+    "timeWeek": 4370,
+    "timeMonth": 3627,
+    "timeYear": 3410,
     "dailyMinutesDown": {
-      "2024-01-16": 1
+      "2024-01-16": 16
     }
   },
   {
