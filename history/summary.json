@@ -688,10 +688,10 @@
     "url": "https://intranet.wspmiddenbrabant.nl",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.wspmiddenbrabant.nl.ico",
     "slug": "intranet-wspmiddenbrabant-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3409,
@@ -699,7 +699,9 @@
     "timeWeek": 4490,
     "timeMonth": 3630,
     "timeYear": 3409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "jcmeijers.com",
@@ -942,9 +944,9 @@
     "slug": "mensgerichteouderenzorg-nl",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 932,
     "timeDay": 746,
@@ -952,7 +954,7 @@
     "timeMonth": 847,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2024-01-16": 46,
+      "2024-01-16": 36,
       "2023-12-04": 32
     }
   },
@@ -1352,9 +1354,9 @@
     "slug": "vhex-nl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 941,
     "timeDay": 807,
@@ -1362,7 +1364,6 @@
     "timeMonth": 900,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2024-01-16": 10,
       "2023-12-04": 22
     }
   },
