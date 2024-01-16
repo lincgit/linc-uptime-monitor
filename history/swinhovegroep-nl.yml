@@ -1,7 +1,7 @@
 url: https://swinhovegroep.nl
-status: up
-code: 200
-responseTime: 1537
-lastUpdated: 2024-01-16T03:56:22.642Z
+status: down
+code: 502
+responseTime: 711
+lastUpdated: 2024-01-16T04:13:22.730Z
 startTime: 2023-08-03T07:52:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
