@@ -1,8 +1,6 @@
 owner: lincgit
 repo: linc-uptime-monitor
 sites:
-   - name: test
-     url: https://google.com/404
    - name: adhulst.nl
      url: https://adhulst.nl
    - name: alltape.eu
