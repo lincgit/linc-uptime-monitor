@@ -310,10 +310,10 @@
     "url": "https://deprovinciekiest.nl",
     "icon": "https://icons.duckduckgo.com/ip3/deprovinciekiest.nl.ico",
     "slug": "deprovinciekiest-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 1674,
@@ -322,6 +322,7 @@
     "timeMonth": 1997,
     "timeYear": 1674,
     "dailyMinutesDown": {
+      "2024-02-11": 2,
       "2024-01-14": 22,
       "2024-01-09": 16,
       "2023-12-26": 17,
@@ -636,9 +637,9 @@
     "slug": "inglasco-int-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 1076,
     "timeDay": 891,
@@ -646,7 +647,7 @@
     "timeMonth": 1048,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2024-02-11": 34,
+      "2024-02-11": 25,
       "2024-01-16": 15,
       "2023-12-04": 39
     }
