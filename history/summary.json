@@ -634,11 +634,11 @@
     "url": "https://inglasco-int.com",
     "icon": "https://icons.duckduckgo.com/ip3/inglasco-int.com.ico",
     "slug": "inglasco-int-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 1077,
     "timeDay": 925,
@@ -646,7 +646,7 @@
     "timeMonth": 1054,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2024-02-11": 25,
+      "2024-02-11": 27,
       "2024-01-16": 15,
       "2023-12-04": 39
     }
