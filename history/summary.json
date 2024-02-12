@@ -636,9 +636,9 @@
     "slug": "inglasco-int-com",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 1074,
     "timeDay": 880,
@@ -646,7 +646,7 @@
     "timeMonth": 1029,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2024-02-12": 2,
+      "2024-02-12": 16,
       "2024-02-11": 25,
       "2024-01-16": 15,
       "2023-12-04": 39
@@ -658,18 +658,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inglasco.nl.ico",
     "slug": "inglasco-nl",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 980,
     "timeDay": 732,
     "timeWeek": 975,
     "timeMonth": 995,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2024-02-12": 23,
+      "2024-02-12": 36,
       "2023-12-04": 38
     }
   },
@@ -1364,10 +1364,10 @@
     "url": "https://vhex.nl",
     "icon": "https://icons.duckduckgo.com/ip3/vhex.nl.ico",
     "slug": "vhex-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 943,
@@ -1376,6 +1376,7 @@
     "timeMonth": 938,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2024-02-12": 2,
       "2023-12-04": 22
     }
   },
