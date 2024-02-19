@@ -93,8 +93,6 @@ sites:
      url: https://mondzorgbaliendijk.nl
    - name: move.scheepens.nl
      url: https://move.scheepens.nl
-   - name: nervecentre.nl
-     url: https://nervecentre.nl
    - name: newbridges.nl
      url: https://newbridges.nl
    - name: nextadvocaten.nl
