@@ -577,11 +577,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/greeniuz.nl.ico",
     "slug": "greeniuz-nl",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "97.57%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1081,
     "timeDay": 1288,
     "timeWeek": 1050,
@@ -734,10 +734,10 @@
     "url": "https://intranet.wspmiddenbrabant.nl",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.wspmiddenbrabant.nl.ico",
     "slug": "intranet-wspmiddenbrabant-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3424,
@@ -746,6 +746,7 @@
     "timeMonth": 3478,
     "timeYear": 3424,
     "dailyMinutesDown": {
+      "2024-02-28": 2,
       "2024-01-16": 16
     }
   },
@@ -1294,11 +1295,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/swinhovegroep.nl.ico",
     "slug": "swinhovegroep-nl",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 1298,
     "timeDay": 1063,
     "timeWeek": 937,
@@ -1566,9 +1567,9 @@
     "slug": "win-rs-nl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
     "timeDay": 2366,
@@ -1576,7 +1577,6 @@
     "timeMonth": 1662,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-02-28": 15,
       "2023-12-04": 18
     }
   },
@@ -1587,9 +1587,9 @@
     "slug": "wolterwolthers-nl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 948,
     "timeDay": 1262,
@@ -1597,7 +1597,6 @@
     "timeMonth": 1004,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2024-02-28": 14,
       "2023-12-04": 18
     }
   },
@@ -1608,9 +1607,9 @@
     "slug": "wonenbijdefamilie-nl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 877,
     "timeDay": 993,
@@ -1618,7 +1617,6 @@
     "timeMonth": 828,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-02-28": 14,
       "2023-12-04": 18
     }
   },
@@ -1628,18 +1626,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsphelmond-depeel.nl.ico",
     "slug": "wsphelmond-depeel-nl",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1229,
     "timeDay": 1381,
     "timeWeek": 1214,
     "timeMonth": 1238,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-02-28": 13,
       "2023-12-04": 17,
       "2023-08-24": 16
     }
@@ -1651,9 +1648,9 @@
     "slug": "yourvolvo-nl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 726,
     "timeDay": 837,
@@ -1661,7 +1658,6 @@
     "timeMonth": 710,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2024-02-28": 13,
       "2023-12-04": 17
     }
   }
