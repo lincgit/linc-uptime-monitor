@@ -105,8 +105,6 @@ sites:
      url: https://outings.nl
    - name: pontex-ip.nl
      url: https://pontex-ip.nl
-   - name: robo-automotive.nl
-     url: https://robo-automotive.nl
    - name: skb-europe.com
      url: https://skb-europe.com
    - name: specialolympics2024.nl
