@@ -55,6 +55,8 @@ sites:
      url: https://hollandpackaging.nl
    - name: hydratechbenelux.nl
      url: https://hydratechbenelux.nl
+   - name: ikswitch.nu
+     url: https://ikswitch.nu
    - name: infocvb.nl
      url: https://infocvb.nl
    - name: inglasco-int.com
