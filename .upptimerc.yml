@@ -43,6 +43,8 @@ sites:
      url: https://etagon.nl
    - name: faes-packaging-solutions.com
      url: https://faes-packaging-solutions.com
+   - name: www.fam.nl
+     url: https://www.fam.nl
    - name: fuchs-wse.nl
      url: https://fuchs-wse.nl
    - name: getaheadineurope.com
