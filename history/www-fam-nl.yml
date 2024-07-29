@@ -1,7 +1,7 @@
 url: https://www.fam.nl
-status: up
-code: 200
-responseTime: 1145
-lastUpdated: 2024-07-28T23:08:43.672Z
+status: down
+code: 503
+responseTime: 907
+lastUpdated: 2024-07-29T20:17:48.816Z
 startTime: 2024-07-08T09:41:30.144Z
 generator: Upptime <https://github.com/upptime/upptime>
