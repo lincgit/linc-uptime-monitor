@@ -7,6 +7,8 @@ sites:
      url: https://alltape.eu
    - name: barrelandboar.nl
      url: https://barrelandboar.nl
+   - name: brabanthallen.nl
+     url: https://www.brabanthallen.nl
    - name: bedding-concepts.nl
      url: https://bedding-concepts.nl
    - name: bioammo.nl
