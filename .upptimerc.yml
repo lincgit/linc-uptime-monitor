@@ -89,6 +89,8 @@ sites:
      url: https://libretica.nl
    - name: linc.nl
      url: https://linc.nl
+   - name: maakgeluid.nl
+     url: https://maakgeluid.nl
    - name: magna-capital-partners.com
      url: https://magna-capital-partners.com
    - name: marcom-inhouse.nl
