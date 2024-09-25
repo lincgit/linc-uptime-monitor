@@ -33,6 +33,8 @@ sites:
      url: https://dehorstgoes.nl
    - name: deprovinciekiest.nl
      url: https://deprovinciekiest.nl
+   - name: derckx.nl
+     url: https://derckx.nl
    - name: deschakelgoes.nl
      url: https://deschakelgoes.nl
    - name: detail4retail.nl
